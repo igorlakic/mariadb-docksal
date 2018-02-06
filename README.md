@@ -7,7 +7,7 @@ These MariaDB images are derived from the stock `mariadb` available at [Docker H
 
 - `mariadb-5.5`
 - `mariadb-10.0`
-- `mariadb-10.1`, `latest`
+- `mariadb-10.1`
 - `mariadb-10.2`
 - `mariadb-10.3`
 
